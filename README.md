@@ -1,14 +1,14 @@
 # Siben API
 
-**Siben API** is a Natural Disaster Data API developed using **JavaScript** and **Node.js** to provide structured and real-time information about various types of natural disasters.
+**Siben API** is a Natural Disaster Data API developed using **JavaScript** and **Node.js** to provide structured information about various types of natural disasters.
 
-The API serves as a centralized data source for disaster-related applications, including the **Siben - Disaster Preparedness Website**, and provides disaster information through accessible API endpoints.
+The API serves as a data source for disaster-related applications, including the **Siben - Disaster Preparedness Website**, and provides disaster information through accessible API endpoints.
 
 ## 🌍 About the Project
 
-Siben API was developed as a centralized data service for managing and providing structured natural disaster information in real time.
+Siben API was developed as a centralized data service for managing and providing structured natural disaster information.
 
-The API provides information related to disaster events, including disaster type, time, location, causes, and impacts.
+The API contains information related to disaster events, including the type of disaster, time, location, causes, and impacts.
 
 It is designed to simplify data access and integration between disaster-related data sources and client applications.
 
@@ -16,7 +16,7 @@ It is designed to simplify data access and integration between disaster-related 
 
 Key features and implementations include:
 
-* Real-time natural disaster data
+* Natural disaster data API
 * Structured disaster information
 * Multiple disaster categories
 * Disaster location information
@@ -30,9 +30,9 @@ Key features and implementations include:
 
 ## 📊 Disaster Data
 
-The API provides structured and real-time information related to natural disaster events.
+The API provides structured information related to natural disaster events.
 
-Available information includes:
+Available information may include:
 
 * Disaster Type
 * Time
@@ -46,7 +46,7 @@ The structured data format allows client applications to retrieve and display di
 
 Siben API is designed to function as a data source that can be integrated with web applications and other services.
 
-The API is used by the **Siben - Disaster Preparedness Website** to retrieve and display real-time disaster-related data dynamically through the frontend application.
+The API is used by the **Siben - Disaster Preparedness Website** to retrieve and display disaster-related data dynamically through the frontend application.
 
 ## 🛠️ Technologies
 
@@ -62,19 +62,18 @@ The main technologies and platforms used in this project are:
 
 This project was developed to:
 
-* Provide a centralized API for real-time natural disaster data
+* Provide a centralized API for natural disaster data
 * Maintain structured and consistent disaster information
 * Provide accessible disaster data for client applications
 * Simplify integration between disaster data and frontend applications
 * Support reusable API-based data access
-* Enable real-time disaster information delivery
 * Provide a scalable foundation for additional disaster-related data services
 
 ## ☁️ Deployment
 
-The API is deployed on **Vercel** to provide reliable availability and scalability for client applications.
+The API is deployed on **Vercel**, providing an accessible environment for client applications to retrieve disaster information.
 
-This deployment allows external applications to access real-time disaster information without requiring the data service to run locally.
+Deployment allows the API to be integrated with external applications without requiring the data service to run locally.
 
 ## 📜 License
 
@@ -82,4 +81,4 @@ This project is maintained for portfolio, reference, and development purposes.
 
 ---
 
-**Siben API — Real-Time Natural Disaster Data API with Node.js**
+**Siben API — Natural Disaster Data API with Node.js**

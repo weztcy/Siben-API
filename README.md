@@ -10,7 +10,7 @@ Siben API was developed as a centralized data service for managing and providing
 
 The API contains information related to disaster events, including the type of disaster, time, location, causes, and impacts.
 
-It is designed to simplify data access and integration between disaster-related data sources and client applications.
+It is designed to simplify data access and integration between disaster-related data sources and client applications while supporting dynamic information delivery.
 
 ## ✨ Features
 
@@ -23,6 +23,7 @@ Key features and implementations include:
 * Disaster event timestamps
 * Disaster cause information
 * Disaster impact information
+* Dynamic disaster information delivery
 * API-based data access
 * Structured JSON responses
 * Integration with external applications
@@ -64,14 +65,14 @@ This project was developed to:
 
 * Provide a centralized API for natural disaster data
 * Maintain structured and consistent disaster information
-* Provide accessible disaster data for client applications
+* Provide dynamic disaster information for client applications
 * Simplify integration between disaster data and frontend applications
 * Support reusable API-based data access
 * Provide a scalable foundation for additional disaster-related data services
 
 ## ☁️ Deployment
 
-The API is deployed on **Vercel**, providing an accessible environment for client applications to retrieve disaster information.
+The API is deployed on **Vercel**, providing an accessible environment for client applications to retrieve disaster information dynamically.
 
 Deployment allows the API to be integrated with external applications without requiring the data service to run locally.
 
